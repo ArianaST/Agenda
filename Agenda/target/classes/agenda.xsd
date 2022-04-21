@@ -32,7 +32,6 @@
                <xs:element name="Nombre" type="xs:string"></xs:element>
                <xs:element name="FInicio" type="xs:string"></xs:element>
                <xs:element name="FLimite" type="xs:string"></xs:element>
-               <xs:element name="Descripcion" type="xs:string"></xs:element>
              </xs:sequence>
            </xs:complexType>
        </xs:element>
@@ -47,7 +46,6 @@
         <xs:element name="nuevoNombre" type="xs:string"/>
         <xs:element name="nuevaFInicio" type="xs:string"/>
         <xs:element name="nuevaFLimite" type="xs:string"/>
-        <xs:element name="nuevaDescripcion" type="xs:string"/>
       </xs:sequence>
     </xs:complexType>
   </xs:element>
